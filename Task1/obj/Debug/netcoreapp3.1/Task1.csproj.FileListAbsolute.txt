@@ -1,0 +1,13 @@
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Dirs\My codes\C sharp\GitHub\100TaskChallenge\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
